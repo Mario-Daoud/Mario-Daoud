@@ -3,10 +3,10 @@
 
 My name is Mario Daoud. <br/>
 I study software development at Hogeschool VIVES.
+<p>🌎 Based in Belgium <img src="https://user-images.githubusercontent.com/113902874/234095699-02982725-8994-4ecf-af18-e174fc2c00d1.png" alt="belgium" height="auto" width="15px"></p>
+<img src="https://user-images.githubusercontent.com/113902874/234074115-a8b354da-d311-4d12-b2da-8f4e2623abc1.gif" alt="gif" height="20" width="100%">
 
-<p> <img src="https://user-images.githubusercontent.com/113902874/234090798-41092502-3014-44de-a578-0d6c221ddc40.gif" alt="banner" height="20px"> Based in Belgium</p>
-
-<h2> Skills <img src="https://user-images.githubusercontent.com/113902874/234073077-fccd113c-96e0-4fb2-91ba-a4812fcccf35.gif" alt="gif" height="20px"></h2>
+<h2><img src="https://user-images.githubusercontent.com/113902874/234073077-fccd113c-96e0-4fb2-91ba-a4812fcccf35.gif" alt="gif" height="20px"> Skills</h2>
 <h4>Programming Languages</h4>
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -49,13 +49,11 @@ I study software development at Hogeschool VIVES.
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 
-<h3>Socials</h3>
-<img src="https://user-images.githubusercontent.com/113902874/234074115-a8b354da-d311-4d12-b2da-8f4e2623abc1.gif" alt="gif" height="20" width="100%">
+<h2><img src="https://user-images.githubusercontent.com/113902874/234092977-b1cf9f00-f331-4fc8-a72e-6a667dea8003.gif" alt="socials" height="22px"> Socials</h2>
 
 <p align="left"> <a href="https://discord.com/users/293429476195565579" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mario-Daoud" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234058344-fb9795a5-c197-4b52-8d9c-23c1f0a83c17.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mario-daoud-bb5628268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<h3>GH info</h3>
-<img src="https://user-images.githubusercontent.com/113902874/234074115-a8b354da-d311-4d12-b2da-8f4e2623abc1.gif" alt="gif" height="20" width="100%">
+<h2><img src="https://user-images.githubusercontent.com/113902874/234095114-665c7fda-9cbf-4ca1-bf23-8fb268271b04.gif" alt="gitgif" height="22px"> GitHub Info</h2>
 
 <a href="http://www.github.com/Mario-Daoud"><img src="https://github-readme-stats.vercel.app/api?username=Mario-Daoud&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="Mario-Daoud's GitHub stats" /></a>
 
