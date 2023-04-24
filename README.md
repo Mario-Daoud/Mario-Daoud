@@ -1,5 +1,5 @@
 <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="gif" height="30"> Welcome to my profile!</h1>
-<img src="https://user-images.githubusercontent.com/113902874/234075913-da2967dc-cfbc-42a2-b03d-c7dd83cc6967.gif" alt="banner">
+<img src="https://user-images.githubusercontent.com/113902874/234098500-c57d9cd8-711c-4c6e-bb4c-528da4e0919a.gif" alt="banner">
 
 My name is Mario Daoud. <br/>
 I study software development at Hogeschool VIVES.
