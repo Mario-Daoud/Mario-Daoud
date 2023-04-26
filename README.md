@@ -4,7 +4,6 @@
 My name is Mario Daoud. <br/>
 I study software development at Hogeschool VIVES.
 <p>🌎 Based in Belgium <img src="https://user-images.githubusercontent.com/113902874/234095699-02982725-8994-4ecf-af18-e174fc2c00d1.png" alt="belgium" height="auto" width="15px"></p>
-<img src="https://user-images.githubusercontent.com/113902874/234074115-a8b354da-d311-4d12-b2da-8f4e2623abc1.gif" alt="gif" height="20" width="100%">
 
 <h2><img src="https://user-images.githubusercontent.com/113902874/234073077-fccd113c-96e0-4fb2-91ba-a4812fcccf35.gif" alt="gif" height="20px"> Skills</h2>
 <h4>Programming Languages</h4>
