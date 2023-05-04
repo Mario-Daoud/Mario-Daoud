@@ -4,6 +4,7 @@
 My name is Mario Daoud. <br/>
 I study software development at Hogeschool VIVES.
 <p>🌎 Based in Belgium <img src="https://user-images.githubusercontent.com/113902874/234095699-02982725-8994-4ecf-af18-e174fc2c00d1.png" alt="belgium" height="auto" width="15px"></p>
+<p>Have a look at my repo's <a href="https://github.com/Mario-Daoud?tab=repositories">here</a></p>
 
 <h2><img src="https://user-images.githubusercontent.com/113902874/234073077-fccd113c-96e0-4fb2-91ba-a4812fcccf35.gif" alt="gif" height="20px"> Skills</h2>
 <h4>Programming Languages</h4>
@@ -45,12 +46,21 @@ I study software development at Hogeschool VIVES.
 <h4>Version Control & Misc.</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236233481-608c75dc-f128-4d34-b2ea-b1aab6517daa.png" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236233492-e0888b46-3d2a-4c38-8650-48786133201f.png" width="36" height="36" alt="Premiere Pro" /></a>
 
 <h2><img src="https://user-images.githubusercontent.com/113902874/234092977-b1cf9f00-f331-4fc8-a72e-6a667dea8003.gif" alt="socials" height="22px"> Socials</h2>
 
-<p align="left"> <a href="https://discord.com/users/293429476195565579" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Mario-Daoud" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234058344-fb9795a5-c197-4b52-8d9c-23c1f0a83c17.png" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mario-daoud-bb5628268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">
+ <a href="mailto:mario.daoud.3002@gmail.com">
+  <img src="https://user-images.githubusercontent.com/113902874/236238443-9b6bf6a0-c396-4d9b-a9d2-ed665004a711.png" width="32" height="32" alt="Send me an Email">
+</a>
+ <a href="https://www.github.com/Mario-Daoud" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234058344-fb9795a5-c197-4b52-8d9c-23c1f0a83c17.png" width="32" height="32" /></a> 
+ <a href="https://www.linkedin.com/in/mario-daoud-bb5628268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="32" />
+ </a>
+ <a href="https://discord.com/users/293429476195565579" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236236745-8c4aba3f-3d62-4cc3-95d9-59753ac3fff9.png" width="32" height="32" />
+ </a> 
+</p>
 
 <h2><img src="https://user-images.githubusercontent.com/113902874/234095114-665c7fda-9cbf-4ca1-bf23-8fb268271b04.gif" alt="gitgif" height="22px"> GitHub Info</h2>
 
