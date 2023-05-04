@@ -38,10 +38,10 @@ I study software development at Hogeschool VIVES.
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/113902874/234061061-68f65991-d412-407e-949c-95e6558cdc1e.png" alt="azure" width="36" height="36"/> </a>
 
 <h4>IDE's</h4>
-
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234062469-4e4487d5-a2fe-43b3-8ae6-bcefbe9bb136.svg" width="36" height="36" alt="VS" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234062455-48868ab9-7674-43cc-8d57-7371b142f869.png" width="36" height="36" alt="VSC" /></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234062475-91dd9f9a-086f-49d7-be0f-d713541177a1.png" width="36" height="36" alt="Intellij" /></a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236340224-57763c1c-85d3-4e23-8bee-62446ed470b5.png" width="36" height="36" alt="AndroidStudio" /></a>
 
 <h4>Version Control & Misc.</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
