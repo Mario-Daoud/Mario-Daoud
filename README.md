@@ -46,6 +46,7 @@ I study software development at Hogeschool VIVES.
 <h4>Version Control & Misc.</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/5584aabf-be59-4529-ac96-f64d5a7ee16e" alt="swagger" width="36" height="36"/> </a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236233481-608c75dc-f128-4d34-b2ea-b1aab6517daa.png" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236233492-e0888b46-3d2a-4c38-8650-48786133201f.png" width="36" height="36" alt="Premiere Pro" /></a>
 
