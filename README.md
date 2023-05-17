@@ -17,22 +17,18 @@ I study software development at Hogeschool VIVES.
 </p>
 
 <h4>Web Development</h4>
-<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-</p>
-
 
 <h4>Backend Development</h4>
-<p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234058068-024a63b8-7273-44df-ab85-82fbf8099819.png" width="36" height="36" alt="Express" /></a>
- <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234060101-77dbc2b8-8d3f-4247-a84c-ed74ce4567e6.png" width="36" height="36" alt=".NET" /></a>
- <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/23177ffd-56e4-4e9b-9811-7f3eeccefcf7" width="36" height="36" alt="graphql" /></a>
- <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234060101-77dbc2b8-8d3f-4247-a84c-ed74ce4567e6.png" width="36" height="36" alt=".NET" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234060101-77dbc2b8-8d3f-4247-a84c-ed74ce4567e6.png" width="36" height="36" alt=".NET" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/23177ffd-56e4-4e9b-9811-7f3eeccefcf7" width="36" height="36" alt="graphql" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234060101-77dbc2b8-8d3f-4247-a84c-ed74ce4567e6.png" width="36" height="36" alt=".NET" /></a>
 
 <h4>Databases</h4>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
