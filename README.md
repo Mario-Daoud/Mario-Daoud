@@ -25,11 +25,13 @@ I study software development at Hogeschool VIVES.
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
+
 <h4>Backend Development</h4>
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234058068-024a63b8-7273-44df-ab85-82fbf8099819.png" width="36" height="36" alt="Express" /></a>
  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234060101-77dbc2b8-8d3f-4247-a84c-ed74ce4567e6.png" width="36" height="36" alt=".NET" /></a>
+ <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/23177ffd-56e4-4e9b-9811-7f3eeccefcf7" width="36" height="36" alt="graphql" /></a>
 
 <h4>Databases</h4>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
