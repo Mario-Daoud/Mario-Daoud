@@ -57,8 +57,3 @@ I study software development at Hogeschool VIVES.
  </a> 
 </p>
 
-<h2><img src="https://user-images.githubusercontent.com/113902874/234095114-665c7fda-9cbf-4ca1-bf23-8fb268271b04.gif" alt="gitgif" height="22px"> GitHub Info</h2>
-
-<a href="http://www.github.com/Mario-Daoud"><img src="https://github-readme-stats.vercel.app/api?username=Mario-Daoud&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="Mario-Daoud's GitHub stats" /></a>
-
-<a href="https://github.com/Mario-Daoud" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Daoud&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
