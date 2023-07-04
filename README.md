@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/113902874/234098500-c57d9cd8-711c-4c6e-bb4c-528da4e0919a.gif" alt="banner">
 
 My name is Mario Daoud <br/>
-I study software development at Hogeschool VIVES
+Final year software development at Hogeschool VIVES
 <p>🌎 Based in Belgium <img src="https://user-images.githubusercontent.com/113902874/234095699-02982725-8994-4ecf-af18-e174fc2c00d1.png" alt="belgium" height="auto" width="15px"></p>
 <p>Have a look at my repositories <a href="https://github.com/Mario-Daoud?tab=repositories">here</a></p>
 <p>(s_ = school project; h_ = home project)</p>
