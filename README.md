@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/113902874/234098500-c57d9cd8-711c-4c6e-bb4c-528da4e0919a.gif" alt="banner">
 
 My name is Mario Daoud <br/>
-Final year software development at Hogeschool VIVES
+Final year software development student
 <p>🌎 Based in Belgium <img src="https://user-images.githubusercontent.com/113902874/234095699-02982725-8994-4ecf-af18-e174fc2c00d1.png" alt="belgium" height="auto" width="15px"></p>
-<p>Have a look at my repositories <a href="https://github.com/Mario-Daoud?tab=repositories">here</a> (s_ = school project; h_ = home project)</p>
+<p>Have a look at my repositories <a href="https://github.com/Mario-Daoud?tab=repositories">here</a></p>
 
 <h2><img src="https://user-images.githubusercontent.com/113902874/234073077-fccd113c-96e0-4fb2-91ba-a4812fcccf35.gif" alt="gif" height="20px"> Skills</h2>
 <h4>Programming Languages</h4>
@@ -13,11 +13,13 @@ Final year software development at Hogeschool VIVES
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/a2a38cde-7fe0-432f-9100-1b1ace5e4295" width="36" height="36" alt="Swift" /></a>
 
 <h4>Web Development</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/d2f92fda-bb4d-4d31-b44a-bcd54e853375" width="30" height="36" alt="React Native" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="36" alt="Bootstrap" /></a>
 
@@ -38,11 +40,13 @@ Final year software development at Hogeschool VIVES
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234062455-48868ab9-7674-43cc-8d57-7371b142f869.png" width="36" height="36" alt="VSC" /></a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234062475-91dd9f9a-086f-49d7-be0f-d713541177a1.png" width="36" height="36" alt="Intellij" /></a>
 <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/babbaedc-1f12-498a-9adc-74cf5fff2ab3" width="36" height="36" alt="webstorm" /></a>
+<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/34067494-5c3d-4b72-9b6e-a4edc952922f" width="36" height="36" alt="datagrip" /></a>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236340224-57763c1c-85d3-4e23-8bee-62446ed470b5.png" width="36" height="36" alt="AndroidStudio" /></a>
 
 <h4>Version Control & Misc.</h4>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/></a>
+<a href="https://docker.com" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/dd3ef018-9398-4d80-a2f1-e3d79231c827" alt="docker" width="36" height="36"/> </a>
 
 <h2><img src="https://user-images.githubusercontent.com/113902874/234092977-b1cf9f00-f331-4fc8-a72e-6a667dea8003.gif" alt="socials" height="22px"> Socials</h2>
 <p align="left">
@@ -52,7 +56,7 @@ Final year software development at Hogeschool VIVES
  <a href="https://www.github.com/Mario-Daoud" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234058344-fb9795a5-c197-4b52-8d9c-23c1f0a83c17.png" width="36" height="36" /></a> 
  <a href="https://www.linkedin.com/in/mario-daoud-bb5628268/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" height="36" />
  </a>
- <a href="https://discord.com/users/293429476195565579" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236236745-8c4aba3f-3d62-4cc3-95d9-59753ac3fff9.png" width="36" height="36" />
+ <a href="https://discord.com/users/.faro." target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236236745-8c4aba3f-3d62-4cc3-95d9-59753ac3fff9.png" width="36" height="36" />
  </a> 
 </p>
 
