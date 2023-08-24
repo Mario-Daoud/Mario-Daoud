@@ -24,20 +24,12 @@ Final year software development student
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/a2a38cde-7fe0-432f-9100-1b1ace5e4295" width="36" height="36" alt="Swift" /></a>
 
-<h4>Databases</h4>
+<h4>Databases & DevOps</h4>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/113902874/234061311-60a0d297-b9ac-4034-adc8-c85feaa0fa66.png" alt="mssql" width="36" height="36"/> </a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/113902874/234061061-68f65991-d412-407e-949c-95e6558cdc1e.png" alt="azure" width="36" height="36"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/8a9bac41-a0b0-49db-8661-d413755e3e5e" alt="aws" width="36" height="36"/> </a>
-
-<h4>IDE's</h4>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234062469-4e4487d5-a2fe-43b3-8ae6-bcefbe9bb136.svg" width="36" height="36" alt="VS" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234062455-48868ab9-7674-43cc-8d57-7371b142f869.png" width="36" height="36" alt="VSC" /></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234062475-91dd9f9a-086f-49d7-be0f-d713541177a1.png" width="36" height="36" alt="Intellij" /></a>
-<a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/babbaedc-1f12-498a-9adc-74cf5fff2ab3" width="36" height="36" alt="webstorm" /></a>
-<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/34067494-5c3d-4b72-9b6e-a4edc952922f" width="36" height="36" alt="datagrip" /></a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236340224-57763c1c-85d3-4e23-8bee-62446ed470b5.png" width="36" height="36" alt="AndroidStudio" /></a>
 
 <h4>Version Control & Misc.</h4>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git"/></a>
