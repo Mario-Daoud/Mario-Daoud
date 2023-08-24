@@ -7,14 +7,6 @@ Final year software development student
 <p>Have a look at my repositories <a href="https://github.com/Mario-Daoud?tab=repositories">here</a></p>
 
 <h2><img src="https://user-images.githubusercontent.com/113902874/234073077-fccd113c-96e0-4fb2-91ba-a4812fcccf35.gif" alt="gif" height="20px"> Skills</h2>
-<h4>Programming Languages</h4>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/a2a38cde-7fe0-432f-9100-1b1ace5e4295" width="36" height="36" alt="Swift" /></a>
-
 <h4>Front-end Development</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -28,11 +20,16 @@ Final year software development student
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234058068-024a63b8-7273-44df-ab85-82fbf8099819.png" width="36" height="36" alt="Express" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234060101-77dbc2b8-8d3f-4247-a84c-ed74ce4567e6.png" width="36" height="36" alt=".NET" /></a>
 
+<h4>Mobile Development</h4>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/a2a38cde-7fe0-432f-9100-1b1ace5e4295" width="36" height="36" alt="Swift" /></a>
+
 <h4>Databases</h4>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/113902874/234061311-60a0d297-b9ac-4034-adc8-c85feaa0fa66.png" alt="mssql" width="36" height="36"/> </a>
 <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/113902874/234061061-68f65991-d412-407e-949c-95e6558cdc1e.png" alt="azure" width="36" height="36"/> </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/8a9bac41-a0b0-49db-8661-d413755e3e5e" alt="aws" width="36" height="36"/> </a>
 
 <h4>IDE's</h4>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/234062469-4e4487d5-a2fe-43b3-8ae6-bcefbe9bb136.svg" width="36" height="36" alt="VS" /></a>
