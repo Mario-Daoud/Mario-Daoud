@@ -49,5 +49,3 @@ Final year software development student
  </a> 
 </p>
 
-<h4>My Stats</h4>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mario-Daoud&theme=dark)
