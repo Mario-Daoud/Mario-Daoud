@@ -50,4 +50,4 @@ Final year software development student
 </p>
 
 <h4>My Stats</h4>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Daoud&layout=compact&theme=vision-friendly-dark)]
