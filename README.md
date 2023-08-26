@@ -1,16 +1,15 @@
 <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="gif" height="30"> Welcome!</h1>
-<img src="https://user-images.githubusercontent.com/113902874/234098500-c57d9cd8-711c-4c6e-bb4c-528da4e0919a.gif" alt="banner">
 
-My name is Mario Daoud <br/>
-Final year software development student
-<p>🌎 Based in Belgium <img src="https://user-images.githubusercontent.com/113902874/234095699-02982725-8994-4ecf-af18-e174fc2c00d1.png" alt="belgium" height="auto" width="15px"></p>
-<p>Currently working on <a href="https://easylobbies.com/">EasyLobbies.com</a></p>
+<p align="left">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mario-Daoud&theme=ayu_mirage">
+</p>
 <p>Have a look at my repositories <a href="https://github.com/Mario-Daoud?tab=repositories">here</a></p>
 
 <h2><img src="https://user-images.githubusercontent.com/113902874/234073077-fccd113c-96e0-4fb2-91ba-a4812fcccf35.gif" alt="gif" height="20px"> Skills</h2>
 <h4>Front-end Development</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/64916c95-93f9-4c3d-84e2-a4f95f98fc4f" width="36" height="36" alt="javascript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/d2f92fda-bb4d-4d31-b44a-bcd54e853375" width="30" height="36" alt="React Native" /></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
@@ -47,12 +46,4 @@ Final year software development student
  </a>
  <a href="https://discord.com/users/.faro." target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236236745-8c4aba3f-3d62-4cc3-95d9-59753ac3fff9.png" width="36" height="36" />
  </a> 
-</p>
-
-<h4>My stats</h4>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mario-Daoud">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mario-Daoud&theme=ayu_mirage">
-<p align="middle">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mario-Daoud&theme=ayu_mirage">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mario-Daoud&theme=ayu_mirage">
 </p>
