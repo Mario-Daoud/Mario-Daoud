@@ -52,6 +52,7 @@ Final year software development student
 <h4>My stats</h4>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mario-Daoud">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mario-Daoud&theme=ayu_mirage">
+<p align="middle">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mario-Daoud&theme=ayu_mirage">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mario-Daoud&theme=ayu_mirage">
-
+</p>
