@@ -48,4 +48,4 @@ Final year software development student
  <a href="https://discord.com/users/.faro." target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236236745-8c4aba3f-3d62-4cc3-95d9-59753ac3fff9.png" width="36" height="36" />
  </a> 
 </p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mario-Daoud">
