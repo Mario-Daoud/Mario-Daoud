@@ -50,4 +50,4 @@ Final year software development student
 </p>
 
 <h4>My Stats</h4>
-https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-Daoud&layout=compact&theme=vision-friendly-dark
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mario-Daoud&theme=dark)
