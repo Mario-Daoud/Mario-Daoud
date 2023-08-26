@@ -48,4 +48,10 @@ Final year software development student
  <a href="https://discord.com/users/.faro." target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/113902874/236236745-8c4aba3f-3d62-4cc3-95d9-59753ac3fff9.png" width="36" height="36" />
  </a> 
 </p>
+
+<h4>My stats</h4>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mario-Daoud">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mario-Daoud&theme=ayu_mirage">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mario-Daoud&theme=ayu_mirage">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mario-Daoud&theme=ayu_mirage">
+
