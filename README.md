@@ -49,3 +49,6 @@ Final year software development student
  </a> 
 </p>
 
+<h4>My Stats</h4>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mario-Daoud&theme=dark&background=000000)](https://git.io/streak-stats)
+
