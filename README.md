@@ -1,6 +1,6 @@
 <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="gif" height="30"> Welcome!</h1>
 
-<p align="left">
+<p>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mario-Daoud&theme=ayu_mirage">
 </p>
 <p>Have a look at my repositories <a href="https://github.com/Mario-Daoud?tab=repositories">here</a></p>
