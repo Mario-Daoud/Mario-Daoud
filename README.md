@@ -91,9 +91,3 @@
  <a href="https://www.linkedin.com/in/mario-daoud-bb5628268/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://discord.com/users/.faro." target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> 
 </p>
-
-<hr>
-
-<p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mario-Daoud&theme=ayu_mirage">
-</p>
