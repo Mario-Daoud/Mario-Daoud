@@ -1,12 +1,12 @@
-<h1>Welcome!</h1>
+# Welcome!
 <img src="https://user-images.githubusercontent.com/113902874/234098500-c57d9cd8-711c-4c6e-bb4c-528da4e0919a.gif" alt="banner">
 
 <p>Have a look at my repositories <a href="https://github.com/Mario-Daoud?tab=repositories">here</a></p>
 
 <hr>
 
-<h3>Skills</h3>
-<h4>Front-end Development</h4>
+### Skills
+#### Front-end Development
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
-<h4>Back-end Development</h4>
+#### Back-end Development
 <p>
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -40,14 +40,14 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/>
 
-<h4>Mobile Development</h4>
+#### Mobile Development
 <p>
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-<h4>Databases & DevOps</h4>
+#### Databases & DevOps
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"/>
 </p>
 
-<h4>IDE's and extra's</h4>
+#### IDE's and extra's
 <p>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <hr>
 
-<h3>Contact</h3>
+### Contact
 <p align="left">
  <a href="mailto:mario.daoud.3002@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
