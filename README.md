@@ -1,5 +1,4 @@
 # Welcome!
-<img src="https://user-images.githubusercontent.com/113902874/234098500-c57d9cd8-711c-4c6e-bb4c-528da4e0919a.gif" alt="banner">
 
 <p>Have a look at my repositories <a href="https://github.com/Mario-Daoud?tab=repositories">here</a></p>
 
