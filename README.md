@@ -93,10 +93,10 @@
 <hr>
 
 ### Contact
-<p align="left">
+<p>
  <a href="mailto:mario.daoud.3002@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
- <a href="https://www.github.com/Mario-Daoud" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
- <a href="https://www.linkedin.com/in/mario-daoud-bb5628268/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.github.com/Mario-Daoud"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> 
+ <a href="https://www.linkedin.com/in/mario-daoud-bb5628268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
