@@ -1,4 +1,6 @@
-# Welcome!
+# Welcome to my profile!
+
+![mario-banner-full](https://github.com/Mario-Daoud/Mario-Daoud/assets/113902874/212d27ea-aa28-47be-b1b9-7d733aab0a9f)
 
 <p>Have a look at my repositories <a href="https://github.com/Mario-Daoud?tab=repositories">here</a></p>
 
