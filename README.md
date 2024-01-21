@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mario-Daoud&theme=transparent&hide_border=true&card_width=1200&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mario-Daoud&theme=transparent&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <hr>
 
