@@ -2,8 +2,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mario-Daoud&theme=transparent&hide_border=true&card_width=1200&hide_longest_streak=true)](https://git.io/streak-stats)
 
-<p>Have a look at my repositories <a href="https://github.com/Mario-Daoud?tab=repositories">here</a></p>
-
 <hr>
 
 ### Skills
