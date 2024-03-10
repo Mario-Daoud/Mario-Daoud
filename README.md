@@ -1,7 +1,5 @@
 # Welcome to my profile!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mario-Daoud&theme=transparent&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
 ### Contact
 <p>
  <a href="mailto:mario.daoud.3002@gmail.com">
